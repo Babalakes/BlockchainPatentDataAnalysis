@@ -1,0 +1,24 @@
+[
+{"countryName":"NIGERIA",
+    "countryCode":"NGA",
+    "population":{"refYear":{"2021": {"value": 76587, "source": "hgdk"},
+                        "2022": {"value":8590, "source": "nchf"}}},
+    "internetUsers":{"refYear":{"2022": {"value": 65.7, "source": "hgdk"}}}                  
+},
+{"countryName":"CONGO",
+    "countryCode":"COG",
+    "population":{"refYear":{"2021": {"value": 49769, "source": "jfghk"},
+                        "2022": {"value": 948759, "source": "nchf"}}},
+    "internetUsers":{"refYear":{"2022": {"value": 54.2, "source": "hgdk"}}}                  
+},
+{"countryName":"GHANA",
+    "countryCode":"GHN",
+    "population":{"refYear":{"2021": {"value": 87604, "source": "hgdk"},
+                        "2022": {"value": 97604, "source": "nchf"}}},
+    "internetUsers":{"refYear":{"2022": {"value": 82.1, "source": "hgdk"}}}                  
+}
+]
+        
+        
+
+
